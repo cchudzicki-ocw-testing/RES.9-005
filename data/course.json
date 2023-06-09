@@ -1,0 +1,46 @@
+{
+  "term": "",
+  "year": "",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Medical Imaging"
+    ],
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "e27dc0c5-3212-2b0f-b5a4-073cea66aa3d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "fmri-bootcamps"
+  },
+  "course_title": "fMRI Bootcamp",
+  "course_description": "",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.9-005",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "fmri-bootcamps"
+  },
+  "learning_resource_types": [],
+  "site_uid": "93303ead-3296-47bd-a819-29315736c85b",
+  "site_short_id": "RES.9-005"
+}
