@@ -32,7 +32,8 @@
   "course_title": "fMRI Bootcamp",
   "course_description": "",
   "department_numbers": [
-    "9"
+    "9",
+    "RES"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.9-005",
