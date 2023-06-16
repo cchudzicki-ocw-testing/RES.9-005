@@ -41,7 +41,9 @@
     "content": "",
     "website": "fmri-bootcamps"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
   "site_uid": "93303ead-3296-47bd-a819-29315736c85b",
   "site_short_id": "RES.9-005"
 }
